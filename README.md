@@ -47,13 +47,14 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 
-![Kaamya's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kaamyashinde&show_icons=true&theme=tokyonight&rank_icon=github&cache_seconds=86400)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaamyashinde&layout=compact&langs_count=8&hide=css,scss,html&theme=tokyonight&cache_seconds=86400)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=tokyonight&hide_border=true)  
+![Streak](https://streak-stats.demolab.com?user=kaamyashinde&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&cache_seconds=86400)
+
 
 ---
 
